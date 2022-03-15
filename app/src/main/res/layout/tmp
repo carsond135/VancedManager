@@ -1,0 +1,102 @@
+activity_main.xml
+restored files
+15 months ago
+activity_welcome.xml
+implemented a better way to animate welcome activity
+13 months ago
+dialog_app_download.xml
+added progress indicators to download dialogs
+13 months ago
+dialog_app_info.xml
+Added accent color picker
+15 months ago
+dialog_app_uninstall.xml
+cleanup
+5 months ago
+dialog_bottom_radio_button.xml
+fix save button going offscreen when list is too large
+5 months ago
+dialog_custom_url.xml
+Added accent color picker
+15 months ago
+dialog_installation_files_detected.xml
+Added accent color picker
+15 months ago
+dialog_manager_accent_color.xml
+fixed accent dialog
+13 months ago
+dialog_manager_language.xml
+Added accent color picker
+15 months ago
+dialog_manager_theme.xml
+Added accent color picker
+15 months ago
+dialog_manager_update.xml
+added progress indicators to download dialogs
+13 months ago
+dialog_manager_variant.xml
+Added accent color picker
+15 months ago
+dialog_music_preferences.xml
+clickable boundary adjustments
+13 months ago
+dialog_select_apps.xml
+Added accent color picker
+15 months ago
+dialog_serviced_timer.xml
+removed unused attribute
+13 months ago
+dialog_vanced_language_selection.xml
+Added accent color picker
+15 months ago
+dialog_vanced_preferences.xml
+clickable boundary adjustments
+13 months ago
+fragment_about.xml
+improved layouts to look more close to each other
+11 months ago
+fragment_dev_settings.xml
+ui updates
+14 months ago
+fragment_grant_root.xml
+implemented a better way to animate welcome activity
+13 months ago
+fragment_home.xml
+improved layouts to look more close to each other
+11 months ago
+fragment_log.xml
+adjusted save button margins again
+13 months ago
+fragment_select_apps.xml
+implemented a better way to animate welcome activity
+13 months ago
+fragment_settings.xml
+Revert "Added an option to switch between internal and external storage"
+11 months ago
+fragment_welcome.xml
+implemented a better way to animate welcome activity
+13 months ago
+view_app_checkbox.xml
+Changed RGB wheel to HSL
+15 months ago
+view_app_expandable.xml
+improved layout flexibility
+11 months ago
+view_notification_setting.xml
+Clear All data binding
+16 months ago
+view_preference.xml
+cleanup
+17 months ago
+view_preference_category.xml
+Added accent color picker
+15 months ago
+view_preference_switch.xml
+Added accent color picker
+15 months ago
+view_social_link.xml
+revert some changes
+15 months ago
+view_sponsor.xml
+removed gradient from sponsor buttons
+13 months ago 
