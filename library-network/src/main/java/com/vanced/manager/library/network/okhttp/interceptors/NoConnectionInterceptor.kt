@@ -8,7 +8,7 @@ import okhttp3.Interceptor
 
 class NoConnectionException : Exception()
 
-const val NO_CONNECTOR_INTERCEPTOR = "NO_CONNECT_INTERCEPTOR"
+const val NO_CONNECT_INTERCEPTOR = "NO_CONNECT_INTERCEPTOR"
 
 internal fun noConnectionInterceptor(context: Context) = Interceptor { chain ->
     if (!isInternetAvailable(context)) {
